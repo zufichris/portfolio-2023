@@ -5,8 +5,7 @@ import { Paragraph } from "@/components/Paragraph";
 import { Products } from "@/components/Products";
 import { TechStack } from "@/components/TechStack";
 import { TypewriterEffect } from "@/components/TypeWriter";
-import { Name } from "@/constants";
-import Image from "next/image";
+
 
 export default function Home() {
   return (
