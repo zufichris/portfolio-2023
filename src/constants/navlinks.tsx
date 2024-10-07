@@ -1,5 +1,4 @@
 import {
-  IconArticle,
   IconBolt,
   IconBriefcase2,
   IconMail,

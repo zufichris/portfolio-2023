@@ -42,7 +42,7 @@ export const Sidebar = () => {
         className="fixed lg:hidden bottom-4 right-4 h-8 w-8 border border-neutral-200 rounded-full backdrop-blur-sm flex items-center justify-center z-50"
         onClick={() => setOpen(!open)}
       >
-        <IconLayoutSidebarRightCollapse className="h-4 w-4 text-secondary" />
+        <IconLayoutSidebarRightCollapse className="h-6 w-6 text-secondary" />
       </button>
     </>
   );
@@ -65,7 +65,7 @@ export const Navigation = ({
           href={link.href}
           onClick={() => isMobile() && setOpen(false)}
           className={twMerge(
-            "text-secondary hover:text-primary transition duration-200 flex items-center space-x-2 py-2 px-2 rounded-md text-sm",
+            "text-secondary hover:text-primary transition duration-200 flex items-center space-x-2 py-2.5 px-2.5 rounded-md text-sm",
             isActive(link.href) && "bg-white shadow-lg text-primary"
           )}
         >
