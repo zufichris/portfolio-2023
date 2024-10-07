@@ -65,7 +65,16 @@ export const TechStack = () => {
     {
       title: "AWS",
       src: "/images/logos/aws.webp",
-
+      className: "h-10 w-10",
+    },
+    {
+      title: "TailwindCss",
+      src: "/public/images/logos/tailwind.png",
+      className: "h-10 w-10",
+    },
+    {
+      title: "Vercel",
+      src: "/images/logos/vercel.png",
       className: "h-10 w-10",
     },
   ];
@@ -75,7 +84,7 @@ export const TechStack = () => {
         as="h2"
         className="font-black text-lg md:text-lg lg:text-lg mt-20 mb-4"
       >
-      Some  Technologies I Use
+        Some Technologies I Use
       </Heading>
       <div className="flex flex-wrap">
         {stack.map((item) => (
