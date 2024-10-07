@@ -7,27 +7,27 @@ export const TechStack = () => {
   const stack = [
     {
       title: "Javascript",
-      src: "/images/logos/js.jfif",
+      src: "/images/logos/js.png",
       className: "h-10 w-12",
     },
     {
       title: "Typescript",
-      src: "/images/logos/ts.jfif",
+      src: "/images/logos/ts.png",
       className: "h-10 w-12",
     },
     {
       title: "C#",
-      src: "/images/logos/cs.jfif",
+      src: "/images/logos/cs.png",
       className: "h-10 w-12",
     },
     {
       title: "Python",
-      src: "/images/logos/py.jfif",
+      src: "/images/logos/py.png",
       className: "h-10 w-12",
     },
     {
       title: "PHP",
-      src: "/images/logos/php.jfif",
+      src: "/images/logos/php.png",
       className: "h-10 w-12",
     },
     {
@@ -38,7 +38,7 @@ export const TechStack = () => {
     },
     {
       title: "ReactJS",
-      src: "/images/logos/react.jfif",
+      src: "/images/logos/react.png",
       className: "h-10 w-12",
     },
     {
@@ -49,17 +49,17 @@ export const TechStack = () => {
     },
     {
       title: "Angular",
-      src: "/images/logos/angular.jfif",
+      src: "/images/logos/angular.png",
       className: "h-10 w-12",
     },
     {
       title: "MongoDB",
-      src: "/images/logos/mongo.jfif",
+      src: "/images/logos/mongo.png",
       className: "h-10 w-12",
     },
     {
       title: "PostgreSQL",
-      src: "/images/logos/postgres.jfif",
+      src: "/images/logos/postgres.png",
       className: "h-10 w-12",
     },
     {

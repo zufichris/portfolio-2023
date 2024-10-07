@@ -4,8 +4,8 @@ export const products = [
     title: "Multi-vendor E-commerce App",
     description:
       "ECommerce platform that allows multiple sellers to manage their own storefronts while providing a seamless shopping experience for customers and easy payments for customers.",
-    thumbnail: '/images/projects/e2.jfif',
-    images: ['/images/projects/e2.jfif', '/images/projects/e1.jpg'],
+    thumbnail: '/images/projects/e2.png',
+    images: ['/images/projects/e2.png', '/images/projects/e1.jpg'],
     stack: [
       "Javascript",
       "NodeJS",
@@ -33,7 +33,7 @@ export const products = [
       "HTML/CSS",
       "Tailwindcss",
     ],
-    slug: "messenger",
+    slug: "WhatsApp Clone",
   },
   {
     href: "https://github.com/zufichris/CRM-system",
