@@ -69,7 +69,7 @@ export const TechStack = () => {
     },
     {
       title: "TailwindCss",
-      src: "/public/images/logos/tailwind.png",
+      src: "/images/logos/tailwind.png",
       className: "h-10 w-10",
     },
     {
