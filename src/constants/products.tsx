@@ -19,7 +19,7 @@ export const products = [
   },
   {
     href: "https://github.com/zufichris/messenger-",
-    title: "Messenger",
+    title: "WhatsApp Clone",
     description:
       "Feature-rich messaging application designed for seamless communication between users including real-time messaging, push notifications and media sharing.",
     thumbnail: "/images/projects/mess1.png",
@@ -33,7 +33,7 @@ export const products = [
       "HTML/CSS",
       "Tailwindcss",
     ],
-    slug: "WhatsApp Clone",
+    slug: "WhatsApp",
   },
   {
     href: "https://github.com/zufichris/CRM-system",
