@@ -1,4 +1,4 @@
-export const ProfileImgPath = "/images/prof.png";
+export const ProfileImgPath = "/images/prof.jpeg";
 export const Email = process.env.Email;
 export const SenderEmail = process.env.SenderEmail;
 export const SenderPass = process.env.SenderPass;
